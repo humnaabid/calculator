@@ -1,0 +1,47 @@
+.main{
+    width: 50%;
+  margin-top: 90px;
+border: 2px solid grey;
+border-radius: 20px;
+background-image: url(https://cdn.shopify.com/s/files/1/1095/6418/files/final.jpg?v=1481918145);
+
+}
+input{
+    width: 94%;
+    border: 2px solid grey;
+    height: 70px;
+    border-radius: 20px;
+    background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm21-pd-sasi-03.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=cec9b4798fd70605e2a95fa61259c5db);
+  font-size: 40px;
+}
+button{
+    width: 23%;
+    margin-top: 8px;
+    border-radius: 90px !important;
+    padding: 20px;
+    font-weight: bold;
+    font-size: medium;
+  cursor: pointer;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS-33jXpRNVlhU9SZkP6_NjPD2GC-b1uTo54A&usqp=CAU);
+  color: antiquewhite;
+}
+.rounded-circle{
+    margin: 10px;
+}
+.in{
+    margin-top: 10px;
+  font-weight: bold;
+}
+#upper{
+  width: 35%;
+}
+#op{
+  width: 26%;
+}
+H1{
+  font-family: fantasy;
+  text-decoration: underline;
+  color: darkslateblue;
+  text-align: center;
+  margin-top: 20px;
+}

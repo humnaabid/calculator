@@ -17,5 +17,8 @@ function offResult(){
     result.value = ""
 
 }
-
+function myFunction() {
+ var func=   document.getElementById("result").innerHTML = Math.pow(result.value, 2);
+    result.value =eval(func)
+  }
 
